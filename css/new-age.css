@@ -289,7 +289,7 @@ section.features .feature-item i {
 section.cta {
   position: relative;
   padding: 250px 0;
-  background-image: url("../img/bg-cta.jpg");
+  background-image: url("../img/joveneslyg-featured-2.jpg");
   background-position: center;
   background-size: cover;
 }
@@ -435,4 +435,9 @@ footer ul li a:hover, footer ul li a:focus, footer ul li a:active, footer ul li 
 .btn-xl {
   font-size: 11px;
   padding: 15px 45px;
+}
+
+.full-center{
+  width: 100%;
+  text-align: center;
 }
